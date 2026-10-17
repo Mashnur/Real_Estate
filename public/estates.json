@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Green Valley Family Home",
+    "segment_name": "Single-family",
+    "description": "A bright 4-bedroom home with a private garden.",
+    "price": "$250,000",
+    "status": "sale",
+    "area": "2000 sq ft",
+    "location": "Chattogram",
+    "facilities": ["Living room", "Kitchen", "Garden"],
+    "image": "https://i.ibb.co.com/mrsdMH6Z/images.jpg"
+  },
+  {
+    "id": 2,
+    "estate_title": "Hillside Row Townhouse",
+    "segment_name": "Townhouses",
+    "description": "A 3-floor townhouse with a private garage.",
+    "price": "$180,000",
+    "status": "sale",
+    "area": "1800 sq ft",
+    "location": "Sylhet",
+    "facilities": ["Garage", "Patio", "Kitchen"],
+    "image": "https://i.ibb.co.com/FbN5ms6q/images-1.jpg"
+  },
+  {
+    "id": 3,
+    "estate_title": "City Light Apartment",
+    "segment_name": "Apartments",
+    "description": "A modern 2-bedroom apartment with a balcony.",
+    "price": "$600/month",
+    "status": "rent",
+    "area": "1200 sq ft",
+    "location": "Dhaka",
+    "facilities": ["Balcony", "Lift", "Gym"],
+    "image": "https://i.ibb.co.com/s9zyQgDq/images-2.jpg"
+  },
+  {
+    "id": 4,
+    "estate_title": "Campus Nest Studio",
+    "segment_name": "Student Housing",
+    "description": "A furnished room close to the university campus.",
+    "price": "$150/month",
+    "status": "rent",
+    "area": "650 sq ft",
+    "location": "Chattogram",
+    "facilities": ["Wi-Fi", "Study room", "Laundry"],
+    "image": "https://i.ibb.co.com/JRn28s11/images-3.jpg"
+  },
+  {
+    "id": 5,
+    "estate_title": "Sunset Gardens Residence",
+    "segment_name": "Senior Living",
+    "description": "A ground-floor home in a quiet, supportive community.",
+    "price": "$900/month",
+    "status": "rent",
+    "area": "900 sq ft",
+    "location": "Cox's Bazar",
+    "facilities": ["Ramps", "Clinic", "Garden"],
+    "image": "https://i.ibb.co.com/tTYszCyM/images-4.jpg"
+  },
+  {
+    "id": 6,
+    "estate_title": "Lakeview Holiday Cottage",
+    "segment_name": "Vacation Rentals",
+    "description": "A cozy cottage by the lake for weekend stays.",
+    "price": "$120/night",
+    "status": "rent",
+    "area": "800 sq ft",
+    "location": "Rangamati",
+    "facilities": ["Lake view", "Fireplace", "Kitchen"],
+    "image": "https://i.ibb.co.com/fzwM4St2/images-5.jpg"
+  }
+]
